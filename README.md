@@ -1,4 +1,4 @@
-**DISCLAIMER**:: I'm not author / owner of code, I simply used Gemini 3.0 pro to update this addon for New blender Version.
+**DISCLAIMER**:: I'm not author / owner of code, I simply used Gemini 3.0 pro to update this addon for New blender Version. it's not yet completelly tested yet so proceed with causion !!!
 ***
 
 # Wiggle 2 (Ultimate Update) for Blender
